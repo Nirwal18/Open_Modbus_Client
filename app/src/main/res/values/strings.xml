@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Open Modebus Client</string>
+
+
+<!-- bottom navigation strings -->
+    <string name="home">Home</string>
+    <string name="notification">Notification</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="add_Project">Add project</string>
+    <string name="register_map">Register map</string>
+
+</resources>
